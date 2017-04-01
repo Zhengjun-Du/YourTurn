@@ -1,0 +1,9 @@
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\bin\Debug\YourTurn.exe.config
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\bin\Debug\YourTurn.exe
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\bin\Debug\YourTurn.pdb
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.csprojResolveAssemblyReference.cache
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.Form1.resources
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.Properties.Resources.resources
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.csproj.GenerateResource.Cache
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.exe
+C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.pdb
