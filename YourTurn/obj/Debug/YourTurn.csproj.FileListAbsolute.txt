@@ -7,3 +7,13 @@ C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.Properties.Re
 C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.csproj.GenerateResource.Cache
 C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.exe
 C:\Users\Zheng-Jun Du\Desktop\YourTurn\YourTurn\obj\Debug\YourTurn.pdb
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\bin\Debug\YourTurn.exe.config
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Debug\YourTurn.exe
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Debug\YourTurn.pdb
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\bin\Debug\YourTurn.exe
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\bin\Debug\YourTurn.pdb
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Debug\YourTurn.csprojResolveAssemblyReference.cache
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Debug\YourTurn.Properties.Resources.resources
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Debug\YourTurn.csproj.GenerateResource.Cache
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Debug\YourTurn.ReadMe.resources
+E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Debug\YourTurn.MainForm.resources
