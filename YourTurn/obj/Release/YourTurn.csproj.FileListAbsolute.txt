@@ -7,3 +7,12 @@ E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Release\YourTurn.exe
 E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Release\YourTurn.pdb
 E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Release\YourTurn.MainForm.resources
 E:\我的项目\课堂点名软件\YourTurn\YourTurn\obj\Release\YourTurn.ReadMe.resources
+F:\Projrcts\YourTurn\YourTurn\bin\Release\YourTurn.exe.config
+F:\Projrcts\YourTurn\YourTurn\obj\Release\YourTurn.exe
+F:\Projrcts\YourTurn\YourTurn\obj\Release\YourTurn.pdb
+F:\Projrcts\YourTurn\YourTurn\bin\Release\YourTurn.exe
+F:\Projrcts\YourTurn\YourTurn\bin\Release\YourTurn.pdb
+F:\Projrcts\YourTurn\YourTurn\obj\Release\YourTurn.MainForm.resources
+F:\Projrcts\YourTurn\YourTurn\obj\Release\YourTurn.Properties.Resources.resources
+F:\Projrcts\YourTurn\YourTurn\obj\Release\YourTurn.ReadMe.resources
+F:\Projrcts\YourTurn\YourTurn\obj\Release\YourTurn.csproj.GenerateResource.Cache

@@ -8,10 +8,10 @@ namespace YourTurn
 {
     class Student
     {
-        public int studentNo;
+        public long studentNo;
         public string studentName;
 
-        public Student(int No, string name)
+        public Student(long No, string name)
         {
             studentNo = No;
             studentName = name;

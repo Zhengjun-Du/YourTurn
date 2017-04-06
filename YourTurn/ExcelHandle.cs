@@ -45,9 +45,9 @@ namespace YourTurn
 
                     if (stuNo != "")
                     {
-                        int stuNo_int = 0;
+                        long stuNo_int = 0;
                         try
-                        {  stuNo_int = Convert.ToInt32(stuNo); }
+                        {  stuNo_int = Convert.ToInt64(stuNo); }
                         catch
                         { return new ArrayList();}
 
