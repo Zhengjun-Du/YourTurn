@@ -35,6 +35,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.导入名单ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.readMe = new System.Windows.Forms.ToolStripMenuItem();
+            this.importTxtList = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -86,6 +87,7 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.导入名单ToolStripMenuItem,
+            this.importTxtList,
             this.readMe});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -96,8 +98,8 @@
             // 导入名单ToolStripMenuItem
             // 
             this.导入名单ToolStripMenuItem.Name = "导入名单ToolStripMenuItem";
-            this.导入名单ToolStripMenuItem.Size = new System.Drawing.Size(83, 21);
-            this.导入名单ToolStripMenuItem.Text = "Import List";
+            this.导入名单ToolStripMenuItem.Size = new System.Drawing.Size(113, 21);
+            this.导入名单ToolStripMenuItem.Text = "ImportExcel_List";
             this.导入名单ToolStripMenuItem.Click += new System.EventHandler(this.ImportList);
             // 
             // readMe
@@ -106,6 +108,13 @@
             this.readMe.Size = new System.Drawing.Size(69, 21);
             this.readMe.Text = "ReadMe";
             this.readMe.Click += new System.EventHandler(this.readMe_Click);
+            // 
+            // importTxtList
+            // 
+            this.importTxtList.Name = "importTxtList";
+            this.importTxtList.Size = new System.Drawing.Size(101, 21);
+            this.importTxtList.Text = "ImportTxt_List";
+            this.importTxtList.Click += new System.EventHandler(this.importTxtList_Click);
             // 
             // MainForm
             // 
@@ -138,6 +147,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem 导入名单ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem readMe;
+        private System.Windows.Forms.ToolStripMenuItem importTxtList;
     }
 }
 

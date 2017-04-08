@@ -16,6 +16,7 @@ namespace YourTurn
         private Timer myTimer = new Timer();
         ArrayList studentsList = new ArrayList();
         bool studentsListValid = false;
+        bool IsImportExcl = true;
 
         public MainForm()
         {
@@ -29,7 +30,10 @@ namespace YourTurn
         {
             Random rd = new Random();
             int i = rd.Next() % studentsList.Count;
-            this.showNmaeLabel.Text = ((Student)studentsList[i]).studentNo.ToString() + "-" + ((Student)studentsList[i]).studentName;
+            if(IsImportExcl)
+                this.showNmaeLabel.Text = ((Student)studentsList[i]).studentNo.ToString() + "-" + ((Student)studentsList[i]).studentName;
+            else
+                this.showNmaeLabel.Text = (string)studentsList[i];
         }
 
         private void CallRollStart(object sender, EventArgs e)
@@ -58,6 +62,24 @@ namespace YourTurn
                 MessageBox.Show("数据导入失败！");
                 studentsListValid = false;
                 return;
+            }
+            else
+            {
+                MessageBox.Show("数据导入成功！");
+                studentsListValid = true;
+                IsImportExcl = true; 
+            }
+        }
+
+        private void importTxtList_Click(object sender, EventArgs e)
+        {
+            TxtHandle th = new TxtHandle();
+            IsImportExcl = false;
+            studentsList = th.ImportTxt();
+            if (studentsList.Count == 0)
+            {
+                MessageBox.Show("数据导入失败！");
+                studentsListValid = false;
             }
             else
             {
